@@ -18,14 +18,15 @@ Bu layihə, müasir və minimalist bir memarlıq şirkətinin veb saytının şa
 
 ## 📁 Layihə Strukturu
 
-├── css/
-│   ├── reset.css     
-│   └── style.css     
-├── img/              
-│   ├── about/
-│   └── projects/
-├── index.html      
-└── README.md       
+├── 📂 css  
+│   ├── 📄 reset.css  
+│   └── 📄 style.css  
+├── 📂 img  
+│   ├── 📂 about  
+│   └── 📂 projects  
+├── 📄 index.html  
+└── 📄 README.md  
+   
 
 ## ✍️ Müəllif
 **Həmid Ağabəyov**
