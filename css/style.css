@@ -1,6 +1,27 @@
 :root {
   --white-color: #fff;
   --black-color: #000;
+  --input-bg: #ffffff;
+  --input-border: #ccc;
+  --input-text: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --white-color: #1a1a1a;
+    --black-color: #f1f1f1;
+    --input-bg: #2d2d2d;
+    --input-border: #444;
+    --input-text: #ffffff;
+  }
+}
+
+body {
+  background-color: var(--white-color);
+  color: var(--black-color);
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
 
 html {
@@ -168,7 +189,7 @@ nav a {
   display: inline-block;
   font:
     500 15px Verdana,
-    sans-serif;
+    sans-serif
 }
 
 /* !ABOUT */
@@ -246,6 +267,9 @@ nav a {
   padding: 8px 0 8px 12px;
   outline: none;
   margin-bottom: 15px;
+  color: var(--input-text);
+  background-color: var(--input-bg);
+  border-color: var(--input-border);
 }
 
 #contact .all-inputs button {
