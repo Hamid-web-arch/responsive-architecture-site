@@ -17,8 +17,7 @@ Bu layihə, müasir və minimalist bir memarlıq şirkətinin veb saytının şa
 [Layihəni buradan canlı izləyə bilərsiniz](https://hamid-web-arch.github.io/responsive-architecture-site/)
 
 ## 📁 Layihə Strukturu
-```text
-.
+
 ├── css/
 │   ├── reset.css     
 │   └── style.css     
@@ -30,5 +29,5 @@ Bu layihə, müasir və minimalist bir memarlıq şirkətinin veb saytının şa
 
 ## ✍️ Müəllif
 **Həmid Ağabəyov**
-- LinkedIn: [Həmid Ağabəyov](https://www.linkedin.com/in/h%C9%99mid-a%C4%9Fab%C9%99yov-49b27b307/)
-- GitHub: [@Hamid-web-arch](https://github.com/YOUR_USERNAME)
+- **LinkedIn:** [Həmid Ağabəyov](https://www.linkedin.com/in/h%C9%99mid-a%C4%9Fab%C9%99yov-49b27b307/)
+- **GitHub:** [@Hamid-web-arch](https://github.com/Hamid-web-arch)
